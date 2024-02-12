@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **aryanmichael24@gmail.com**
 
-- 📄 Know about my experiences [My Resume/CV](https://docs.google.com/document/d/1MTjy5x4Nbg4faLz-ffZmTFWVdrg_VImdri-21VnrbU4/edit?usp=sharing)
+- 📄 Know about my experiences [My Resume/CV](https://docs.google.com/document/d/1bQelkvB_7k94Jqky7Cok69bnyxlXfpSwWZ4g0kuSq00/edit?usp=sharing)
 
 - ⚡ Fun fact **I'm a dual footed football player ⚽**
 
