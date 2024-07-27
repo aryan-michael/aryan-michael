@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, My name is Aryan Michael</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate software developer from India</h3>
 
 - 🔭 I’m currently working on [BarterBank.com](https://github.com/aryan-michael/BarterBank)
 
