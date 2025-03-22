@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, My name is Aryan Michael</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🔭 I’m currently working on [BarterBank.com](https://github.com/aryan-michael/BarterBank)
+- 🔭 I’m currently working on [Syncscribe AI](https://github.com/aryan-michael/syncscribe)
 
-- 🌱 I’m currently learning **NodeJS, ExpressJS & MongoDB along with TypeScript**
+- 🌱 I’m currently learning the **MERN Stack, Python & Gemini Vertex AI**
 
-- 👯 I’m looking to collaborate on **Full Stack Web Applications using React**
+- 👯 I’m looking to collaborate on **Full Stack Web Development**
 
-- 🤝 I’m looking for help with **getting into Backend Development**
+- 🤝 I’m looking for help with **getting into Professional Software Development**
 
 - 👨‍💻 All of my projects are available at my [GitHub](https://github.com/aryan-michael/)
 
-- 💬 Ask me about **React and Javascript**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **aryanmichael24@gmail.com**
 
-- 📄 Know about my experiences [My Resume/CV](https://docs.google.com/document/d/1bQelkvB_7k94Jqky7Cok69bnyxlXfpSwWZ4g0kuSq00/edit?usp=sharing)
+- 📄 Know about my experiences [My Resume/CV](https://aryanmichael.com/assets/Aryan%20Michael-Professional%20Resume%20Latest.pdf)
 
 - ⚡ Fun fact **I'm a dual footed football player ⚽**
 
